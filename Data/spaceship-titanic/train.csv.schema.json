@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "name": "PassengerId",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "HomePlanet",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "CryoSleep",
+      "type": "boolean",
+      "format": "default"
+    },
+    {
+      "name": "Cabin",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Destination",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Age",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "VIP",
+      "type": "boolean",
+      "format": "default"
+    },
+    {
+      "name": "RoomService",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "FoodCourt",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "ShoppingMall",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Spa",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "VRDeck",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Transported",
+      "type": "boolean",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

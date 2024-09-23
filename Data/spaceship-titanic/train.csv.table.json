@@ -1,0 +1,139 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 51
+    },
+    {
+      "field": "PassengerId",
+      "title": "PassengerId",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 130
+    },
+    {
+      "field": "HomePlanet",
+      "title": "HomePlanet",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 132
+    },
+    {
+      "field": "CryoSleep",
+      "title": "CryoSleep",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 119
+    },
+    {
+      "field": "Cabin",
+      "title": "Cabin",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 92
+    },
+    {
+      "field": "Destination",
+      "title": "Destination",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 127
+    },
+    {
+      "field": "Age",
+      "title": "Age",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 81
+    },
+    {
+      "field": "VIP",
+      "title": "VIP",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 77
+    },
+    {
+      "field": "RoomService",
+      "title": "RoomService",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 136
+    },
+    {
+      "field": "FoodCourt",
+      "title": "FoodCourt",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 122
+    },
+    {
+      "field": "ShoppingMall",
+      "title": "ShoppingMall",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 142
+    },
+    {
+      "field": "Spa",
+      "title": "Spa",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 79
+    },
+    {
+      "field": "VRDeck",
+      "title": "VRDeck",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 104
+    },
+    {
+      "field": "Name",
+      "title": "Name",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 143
+    },
+    {
+      "field": "Transported",
+      "title": "Transported",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 130
+    }
+  ]
+}
